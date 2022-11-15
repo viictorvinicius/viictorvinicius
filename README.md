@@ -1,16 +1,15 @@
-### Olá! Eu sou Victor Vinicius
 
-- 🔭 Trabalhando como JA Administrativo 
-- 💻 Estudando HTML e CSS
-- 🆕 Novo na área
-- 😄 Pronouns: ele/dele
-- 👨🏽‍🎓 Start ADS 2023
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5499C7&height=112&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=blue&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Victor+Vinicius;Tenho+19+anos+de+idade;Moro+em+São+Paulo;START+ADS+2023+;BEM+VINDO!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://github.com/viictorvinicius">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=viictorvinicius&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img align="auto" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viictorvinicius&layout=compact&langs_count=16&theme=react"/>
 </div>
+  
+  ### Studying in this moment:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Victor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
