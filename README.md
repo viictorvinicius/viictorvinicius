@@ -3,7 +3,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=blue&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Victor+Vinicius;Tenho+19+anos+de+idade;Moro+em+São+Paulo;START+ADS+2023+;BEM+VINDO!+:%29)](https://git.io/typing-svg)
 
+
+      
 <div align="center">
+  [![GitHub Streak](https://streak-stats.demolab.com?user=viictorvinicius&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
   <a href="https://github.com/viictorvinicius">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=viictorvinicius&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img align="auto" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viictorvinicius&layout=compact&langs_count=16&theme=react"/>
