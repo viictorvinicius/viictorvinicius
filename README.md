@@ -14,7 +14,6 @@
 
 - 🧑‍🎓 Sou estudande de Análise e Desenvolvimento de sistemas no Mackenzie e estudande para se tornar desenvolvedor full stack. Minha paixão pela tecnologia não para de crescer, desde de pequeno sempre fiqeui a busca de conhecimento, e curioso para saber o porque de tudo. Além disso, possuo experiências no mercado de trabalho, atualmente, sou analista pleno de adm em uma empresa multinacional, ali desempennho minhas softskills e implemento metodologias agéis com o time. Creio que logo estarei desempenhando um papel de desenvolvedor incrível, e espero contribuir com o máximo das minhas habilidades.
 - 🏎️ Gosto muito do esporte de autonível automobilistico, conhecido como F1
-- 📖 Apaixonado por leitura, costumo ler livros que possam me dar conhecimento e livros também que são mais românticos.
 
 <p align="center">
 
